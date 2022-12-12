@@ -42,5 +42,5 @@ new commit here  inpipeline{
                 bat 'mvn package'
             }
         }
-    }
+     }
 }
